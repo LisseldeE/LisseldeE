@@ -33,15 +33,15 @@
 | 项目 | 描述 | 核心功能 | 技术栈 |
 |------|------|---------|--------|
 | [**LANSyncBox**](https://github.com/LisseldeE/LANSyncBox) | 局域网文件实时同步 | 多人协作、实时同步、加密传输 | Python, PySide6, Socket |
-| [**SyncGUI**](https://github.com/LisseldeE/SyncGUI) | 双端文件同步 | 差异检测、智能同步、断点续传 | Python, PyQt5, Watchdog |
-| [**DeskHelperGUI**](https://github.com/LisseldeE/DeskHelperGUI) | 桌面办公助手 | 文件处理、批量操作、格式转换 | Python, PyQt5, Pillow, PyMuPDF |
+| [**SyncGUI**](https://github.com/LisseldeE/SyncGUI) | 本地双端文件同步 | 差异检测、智能同步、断点续传 | Python, PySide6, Watchdog |
+| [**DeskHelperGUI**](https://github.com/LisseldeE/DeskHelperGUI) | 桌面办公助手 | 文件处理、批量操作、格式转换 | Python, PyQt5, Pillow, PyMuPDF等 |
 
 ### 开发者工具
 
 | 项目 | 描述 | 核心功能 | 技术栈 |
 |------|------|---------|--------|
 | [**TokenPeek**](https://github.com/LisseldeE/TokenPeek) | AI额度实时监控 | 多平台监控、托盘常驻、余额提醒 | Python, PySide6, REST API |
-| [**IconForMsix**](https://github.com/LisseldeE/IconForMsix) | MSIX图标生成 | 一键生成40种尺寸、超采样处理 | Python, PySide6, Pillow |
+| [**IconForMsix**](https://github.com/LisseldeE/IconForMsix) | MSIX图标集生成 | 一键生成40种尺寸、超采样处理 | Python, PySide6, Pillow |
 
 ---
 
@@ -67,6 +67,14 @@
 
 ---
 
+### 版权声明
+
+本页展示的加载动画效果为 Lisselde_E 原创设计，仅限在个人项目中作为界面元素使用。该动画设计受版权保护，请勿在未经许可的情况下直接复用或修改后用于其他项目。
+
+<img src="https://lisseldee.github.io/images/gif/0-1.gif" width="380" alt="加载动画示例" />
+
+---
+
 ### 联系方式
 
 <p>
@@ -83,6 +91,6 @@
 
 <div align="center">
 
-**以简洁为本，以效率为先**
+**以简洁为本，以效率为先，以体验为主**
 
 </div>
