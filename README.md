@@ -81,7 +81,8 @@
   <a href="https://github.com/LisseldeE" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-LisseldeE-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
-  &nbsp;
+</p>
+<p>
   <a href="https://gitee.com/Lisselde_E" target="_blank">
     <img src="https://img.shields.io/badge/Gitee-Lisselde__E-C71D23?style=flat-square&logo=gitee&logoColor=white" alt="Gitee">
   </a>
