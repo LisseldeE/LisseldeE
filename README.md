@@ -8,11 +8,12 @@
   <a href="https://lisseldee.github.io" target="_blank">
     <img src="https://img.shields.io/badge/个人主页-lisseldee.github.io-blue?style=for-the-badge&labelColor=1a1a24&color=3b82f6" alt="个人主页">
   </a>
+  <a href="https://github.com/LisseldeE?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/github/stars/LisseldeE?style=for-the-badge&label=Stars&color=yellow&labelColor=1a1a24&logo=github&logoColor=white" alt="总Stars">
+  </a>
 </p>
 
-热衷于开发实用工具，专注提升工作效率与用户体验
-
-每一个项目都力求简洁、高效、易用
+专注开发实用工具，追求简洁、高效、易用
 
 </div>
 
@@ -72,21 +73,6 @@
 下方展示的加载动画效果为 Lisselde_E 原创设计，仅限在本人项目中作为界面元素使用。该动画设计受版权保护，请勿在未经许可的情况下直接复用或修改后用于其他项目。
 
 <img src="https://lisseldee.github.io/images/gif/0-1.gif" width="380" alt="加载动画示例" />
-
----
-
-### 联系方式
-
-<p>
-  <a href="https://github.com/LisseldeE" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-LisseldeE-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
-<p>
-  <a href="https://gitee.com/Lisselde_E" target="_blank">
-    <img src="https://img.shields.io/badge/Gitee-Lisselde__E-C71D23?style=flat-square&logo=gitee&logoColor=white" alt="Gitee">
-  </a>
-</p>
 
 ---
 
