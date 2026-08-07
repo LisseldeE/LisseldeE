@@ -43,6 +43,7 @@
 |------|------|---------|--------|
 | [**TokenPeek**](https://github.com/LisseldeE/TokenPeek) | AI额度实时监控 | 多平台监控、托盘常驻、余额提醒 | Python, PySide6, REST API |
 | [**IconForMsix**](https://github.com/LisseldeE/IconForMsix) | MSIX图标集生成 | 一键生成40种尺寸、超采样处理 | Python, PySide6, Pillow |
+| [**Nexus Terminal**](https://github.com/LisseldeE/Nexus-Terminal) | 终端辅助工具 | 隧道服务、端口管理、文件下载、HTTP服务 | Python, 标准库, Nuitka |
 
 ---
 
