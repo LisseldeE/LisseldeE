@@ -75,7 +75,7 @@
 
 下方展示的加载动画效果为 Lisselde_E 原创设计，仅限在本人项目中作为界面元素使用。该动画设计受版权保护，请勿在未经许可的情况下直接复用或修改后用于其他项目。
 
-<img src="https://lisseldee.github.io/images/gif/0-1.gif" width="380" alt="加载动画示例" />
+<img src="https://lisseldee.github.io/assets/images/gif/0-1.gif" width="380" alt="加载动画示例" />
 
 ---
 

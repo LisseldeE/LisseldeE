@@ -75,7 +75,7 @@ Inspiration-driven development, iterating on demand
 
 The loading animation shown below is an original design by Lisselde_E, intended solely for use as a UI element within my own projects. This animation design is protected by copyright. Please do not reuse or modify it for other projects without permission.
 
-<img src="https://lisseldee.github.io/images/gif/0-1.gif" width="380" alt="Loading animation demo" />
+<img src="https://lisseldee.github.io/assets/images/gif/0-1.gif" width="380" alt="Loading animation demo" />
 
 ---
 
