@@ -2,6 +2,8 @@
 
 # Lisselde_E
 
+[![](https://img.shields.io/badge/-简体中文-3b82f6?style=flat)](https://github.com/LisseldeE/LisseldeE/blob/main/README.md) [![](https://img.shields.io/badge/-English-555555?style=flat)](https://github.com/LisseldeE/LisseldeE/blob/main/README_EN.md)
+
 **全栈开发者 · Python 专注**
 
 <p>
