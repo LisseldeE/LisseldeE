@@ -38,7 +38,7 @@ Solve problems first, keep it simple and practical
 | [**LANSyncBox**](https://github.com/LisseldeE/LANSyncBox) | LAN real-time file sync | Multi-user collaboration, real-time sync, encrypted transfer | Python, PySide6, Socket |
 | [**SyncGUI**](https://github.com/LisseldeE/SyncGUI) | Local bidirectional file sync | Diff detection, smart sync, resumable transfer | Python, PySide6, Watchdog |
 | [**DeskHelperGUI**](https://github.com/LisseldeE/DeskHelperGUI) | Desktop office assistant | File processing, batch operations, format conversion | Python, PyQt5, Pillow, PyMuPDF, etc. |
-| [**DeskFlow**](https://github.com/LisseldeE/DeskFlow) | Desktop quick toolbar | Quick Launch, Screenshot/Annotation/Translation, and LAN Clipboard | Python, PySide6, WinRT, Socket |
+| [**CapRise**](https://github.com/LisseldeE/CapRise) | Desktop quick toolbar | Quick Launch, Screenshot/Annotation/Translation, and LAN Clipboard | Python, PySide6, WinRT, Socket |
 
 ### Developer Tools
 

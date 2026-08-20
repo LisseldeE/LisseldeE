@@ -38,7 +38,7 @@
 | [**LANSyncBox**](https://github.com/LisseldeE/LANSyncBox) | 局域网文件实时同步 | 多人协作、实时同步、加密传输 | Python, PySide6, Socket |
 | [**SyncGUI**](https://github.com/LisseldeE/SyncGUI) | 本地双端文件同步 | 差异检测、智能同步、断点续传 | Python, PySide6, Watchdog |
 | [**DeskHelperGUI**](https://github.com/LisseldeE/DeskHelperGUI) | 桌面办公助手 | 文件处理、批量操作、格式转换 | Python, PyQt5, Pillow, PyMuPDF等 |
-| [**DeskFlow**](https://github.com/LisseldeE/DeskFlow) | 桌面快捷工具栏 | 快捷唤起、截屏/标注/翻译、局域网剪切板 | Python, PySide6, WinRT, Socket |
+| [**CapRise**](https://github.com/LisseldeE/CapRise) | 桌面快捷工具栏 | 快捷唤起、截屏/标注/翻译、局域网剪切板 | Python, PySide6, WinRT, Socket |
 
 ### 开发者工具
 
