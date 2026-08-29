@@ -6,6 +6,8 @@
 
 **Full Stack Developer · Python Focused**
 
+**Simplicity first, efficiency foremost, experience above all**
+
 <p>
   <a href="https://lisseldee.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Homepage-lisseldee.github.io-blue?style=for-the-badge&labelColor=1a1a24&color=3b82f6" alt="Homepage">
@@ -53,11 +55,3 @@ Open to community contributions, welcome to:
 The loading animation shown below is an original design by Lisselde_E, intended solely for use as a UI element within my own projects. This animation design is protected by copyright. Please do not reuse or modify it for other projects without permission.
 
 <img src="https://lisseldee.github.io/assets/images/gif/0-1.gif" width="380" alt="Loading animation demo" />
-
----
-
-<div align="center">
-
-**Simplicity first, efficiency foremost, experience above all**
-
-</div>

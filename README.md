@@ -6,6 +6,8 @@
 
 **全栈开发者 · Python 专注**
 
+**以简洁为本，以效率为先，以体验为主**
+
 <p>
   <a href="https://lisseldee.github.io" target="_blank">
     <img src="https://img.shields.io/badge/个人主页-lisseldee.github.io-blue?style=for-the-badge&labelColor=1a1a24&color=3b82f6" alt="个人主页">
@@ -53,11 +55,3 @@
 下方展示的加载动画效果为 Lisselde_E 原创设计，仅限在本人项目中作为界面元素使用。该动画设计受版权保护，请勿在未经许可的情况下直接复用或修改后用于其他项目。
 
 <img src="https://lisseldee.github.io/assets/images/gif/0-1.gif" width="380" alt="加载动画示例" />
-
----
-
-<div align="center">
-
-**以简洁为本，以效率为先，以体验为主**
-
-</div>
