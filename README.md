@@ -25,7 +25,7 @@
 
 | 项目 | 描述 | 核心功能 | 技术栈 |
 |------|------|---------|--------|
-| [**LANSyncBox**](https://github.com/LisseldeE/LANSyncBox) | 局域网文件实时同步 | 多人协作、实时同步、加密传输 | Python, PySide6, Socket |
+| [**LANSyncBox**](https://github.com/LisseldeE/LANSyncBox) | 局域网文件实时同步 | 多人协作、实时同步、多平台支持 | Python, PySide6, Socket |
 | [**SyncGUI**](https://github.com/LisseldeE/SyncGUI) | 本地双端文件同步 | 差异检测、智能同步、断点续传 | Python, PySide6, Watchdog |
 | [**DeskHelperGUI**](https://github.com/LisseldeE/DeskHelperGUI) | 桌面办公助手 | 文件处理、批量操作、格式转换 | Python, PyQt5, Pillow, PyMuPDF等 |
 | [**CapRise**](https://github.com/LisseldeE/CapRise) | 桌面快捷工具栏 | 全局热键唤起、快捷操作提升工作效率 | Python, PySide6, WinRT, Socket |
@@ -35,7 +35,7 @@
 | 项目 | 描述 | 核心功能 | 技术栈 |
 |------|------|---------|--------|
 | [**TokenPeek**](https://github.com/LisseldeE/TokenPeek) | AI额度实时监控 | 多平台监控、托盘常驻、余额提醒 | Python, PySide6, REST API |
-| [**IconForMsix**](https://github.com/LisseldeE/IconForMsix) | MSIX图标集生成 | 一键生成40种尺寸、超采样处理 | Python, PySide6, Pillow |
+| [**IconForMsix**](https://github.com/LisseldeE/IconForMsix) | MSIX图标集生成 | 一键生成全套图标、超采样处理 | Python, PySide6, Pillow |
 | [**Nexus Terminal**](https://github.com/LisseldeE/Nexus-Terminal) | 终端辅助工具 | 隧道服务、端口管理、文件下载、HTTP服务 | Python, 标准库, Nuitka |
 
 ---

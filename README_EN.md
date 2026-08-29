@@ -25,7 +25,7 @@
 
 | Project | Description | Core Features | Tech Stack |
 |---------|-------------|---------------|------------|
-| [**LANSyncBox**](https://github.com/LisseldeE/LANSyncBox) | LAN real-time file sync | Multi-user collaboration, real-time sync, encrypted transfer | Python, PySide6, Socket |
+| [**LANSyncBox**](https://github.com/LisseldeE/LANSyncBox) | LAN real-time file sync | Multi-user collaboration, real-time sync, multi-platform support | Python, PySide6, Socket |
 | [**SyncGUI**](https://github.com/LisseldeE/SyncGUI) | Local bidirectional file sync | Diff detection, smart sync, resumable transfer | Python, PySide6, Watchdog |
 | [**DeskHelperGUI**](https://github.com/LisseldeE/DeskHelperGUI) | Desktop office assistant | File processing, batch operations, format conversion | Python, PyQt5, Pillow, PyMuPDF, etc. |
 | [**CapRise**](https://github.com/LisseldeE/CapRise) | Desktop quick toolbar | Global hotkey, quick actions boost work efficiency | Python, PySide6, WinRT, Socket |
@@ -35,7 +35,7 @@
 | Project | Description | Core Features | Tech Stack |
 |---------|-------------|---------------|------------|
 | [**TokenPeek**](https://github.com/LisseldeE/TokenPeek) | AI quota real-time monitor | Multi-platform monitoring, system tray, balance alerts | Python, PySide6, REST API |
-| [**IconForMsix**](https://github.com/LisseldeE/IconForMsix) | MSIX icon set generator | One-click generation of 40 sizes, supersampling | Python, PySide6, Pillow |
+| [**IconForMsix**](https://github.com/LisseldeE/IconForMsix) | MSIX icon set generator | One-click full icon set, supersampling | Python, PySide6, Pillow |
 | [**Nexus Terminal**](https://github.com/LisseldeE/Nexus-Terminal) | Terminal assistant tool | Tunnel service, port management, file download, HTTP server | Python, Standard Library, Nuitka |
 
 ---
