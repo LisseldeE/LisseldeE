@@ -15,19 +15,7 @@
   </a>
 </p>
 
-Focused on building practical tools — simple, efficient, and easy to use
-
 </div>
-
----
-
-### Development Philosophy
-
-Solve problems first, keep it simple and practical
-
-- **Need-driven**: Start from real pain points, solve the problem first, then refine the details
-- **Minimalist design**: Clean interface, focused features, user experience first
-- **Continuous iteration**: Embrace user feedback, keep improving, avoid over-engineering
 
 ---
 
@@ -57,18 +45,6 @@ Open to community contributions, welcome to:
 - Submit Issues to report bugs or suggest features
 - Submit Pull Requests to contribute code or documentation
 - Fork projects for further development
-
-Every piece of feedback is taken seriously — I will continuously improve project quality.
-
----
-
-### Current Status
-
-Inspiration-driven development, iterating on demand
-
-- Development driven by actual needs and personal interests
-- Prioritize fixing known bugs and improving user experience
-- Add new features or start new projects from time to time
 
 ---
 
