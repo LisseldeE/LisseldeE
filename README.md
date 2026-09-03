@@ -38,6 +38,12 @@
 | [**IconForMsix**](https://github.com/LisseldeE/IconForMsix) | MSIX图标集生成 | 一键生成全套图标、超采样处理 | Python, PySide6, Pillow |
 | [**Nexus Terminal**](https://github.com/LisseldeE/Nexus-Terminal) | 终端辅助工具 | 隧道服务、端口管理、文件下载、HTTP服务 | Python, 标准库, Nuitka |
 
+### UI 界面模板
+
+| 项目 | 描述 | 技术栈 |
+| ---- | ---- | -------- |
+| [**PyUI-Templates**](https://github.com/LisseldeE/PyUI-Templates) | PyUI模板库，多种风格，开箱即用，持续更新 | Python, Qt 等 |
+
 ---
 
 ### 开源态度
