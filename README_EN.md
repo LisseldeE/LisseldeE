@@ -38,7 +38,7 @@
 | [**IconForMsix**](https://github.com/LisseldeE/IconForMsix) | MSIX icon set generator | One-click full icon set, supersampling | Python, PySide6, Pillow |
 | [**Nexus Terminal**](https://github.com/LisseldeE/Nexus-Terminal) | Terminal assistant tool | Tunnel service, port management, file download, HTTP server | Python, Standard Library, Nuitka |
 
-### UI Interface Templates
+### Template Repository
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
