@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 160" width="640" height="320" role="img" aria-labelledby="title desc">
+  <title id="title">夜里的桌面</title>
+  <desc id="desc">深夜的书桌：显示器亮着，台灯照着一只趴在桌上的猫。</desc>
+
+  <defs>
+    <clipPath id="scene">
+      <rect x="0" y="0" width="320" height="160" rx="10"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#scene)">
+  <rect x="0" y="0" width="320" height="160" rx="10" fill="#0d1420"/>
+
+  <!-- 窗 -->
+  <rect x="206" y="22" width="96" height="74" rx="3" fill="#111d30" stroke="#2a3a57" stroke-width="2"/>
+  <rect x="210" y="26" width="88" height="66" fill="#081422"/>
+  <g fill="#8fa4c0">
+    <circle cx="218" cy="34" r="1" opacity=".8">
+      <animate attributeName="opacity" values=".8;.25;.8" dur="3.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="230" cy="48" r="1" opacity=".5"/>
+    <circle cx="222" cy="70" r="1" opacity=".35"/>
+    <circle cx="260" cy="30" r="1" opacity=".6"/>
+    <circle cx="292" cy="58" r="1" opacity=".45"/>
+    <circle cx="288" cy="78" r="1" opacity=".3">
+      <animate attributeName="opacity" values=".3;.7;.3" dur="4.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <circle cx="278" cy="44" r="7" fill="#efe6cf"/>
+  <circle cx="281" cy="41" r="6.2" fill="#081422"/>
+  <line x1="254" y1="26" x2="254" y2="92" stroke="#2a3a57" stroke-width="1.5"/>
+  <line x1="210" y1="59" x2="298" y2="59" stroke="#2a3a57" stroke-width="1.5"/>
+
+  <!-- 桌面 -->
+  <rect x="0" y="128" width="320" height="32" fill="#141e31"/>
+  <rect x="0" y="128" width="320" height="2" fill="#2b3b5a"/>
+
+  <!-- 台灯 -->
+  <polygon points="36,89 56,89 76,128 16,128" fill="#f0b45a" opacity=".08"/>
+  <ellipse cx="46" cy="129" rx="32" ry="4" fill="#f0b45a" opacity=".07"/>
+  <rect x="18" y="124" width="28" height="4" rx="2" fill="#2a3a57"/>
+  <path d="M32 124 L32 96 L44 82" fill="none" stroke="#2a3a57" stroke-width="3" stroke-linecap="round"/>
+  <path d="M42 76 L50 76 L58 88 L34 88 Z" fill="#3b4e73"/>
+  <rect x="36" y="87" width="20" height="1.6" rx=".8" fill="#f0b45a"/>
+  <circle cx="46" cy="89" r="3" fill="#f0b45a" opacity=".22"/>
+
+  <!-- 显示器 -->
+  <rect x="62" y="58" width="104" height="66" rx="4" fill="#222e45" stroke="#2f405e" stroke-width="1.5"/>
+  <rect x="68" y="64" width="92" height="54" fill="#06121e"/>
+  <g opacity=".95">
+    <rect x="74" y="72" width="26" height="2" rx="1" fill="#3fd0c9" opacity=".85"/>
+    <rect x="74" y="78" width="40" height="2" rx="1" fill="#5b708c"/>
+    <rect x="80" y="84" width="22" height="2" rx="1" fill="#f0b45a"/>
+    <rect x="74" y="90" width="36" height="2" rx="1" fill="#5b708c"/>
+    <rect x="86" y="96" width="16" height="2" rx="1" fill="#3fd0c9"/>
+    <rect x="74" y="101" width="2.5" height="4" rx=".6" fill="#3fd0c9">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;.45;.5;.95;1" dur="1.4s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <rect x="108" y="124" width="12" height="4" fill="#1b2740"/>
+  <rect x="96" y="128" width="36" height="3" rx="1" fill="#1b2740"/>
+
+  <!-- 键盘 -->
+  <rect x="78" y="121" width="62" height="6" rx="1" fill="#1c2942"/>
+  <g stroke="#2a3a57" stroke-width=".8" opacity=".8">
+    <line x1="83" y1="123" x2="135" y2="123"/>
+    <line x1="83" y1="125" x2="135" y2="125"/>
+  </g>
+
+  <!-- 杯子 -->
+  <rect x="146" y="114" width="11" height="14" rx="1.5" fill="#7d5f4c"/>
+  <ellipse cx="151.5" cy="114.5" rx="5.5" ry="1.5" fill="#9a7a63"/>
+  <path d="M157 116 C162 116 162 122 157 122" fill="none" stroke="#7d5f4c" stroke-width="2" stroke-linecap="round"/>
+  <path d="M149 110 C147 107 151 105 149 102" fill="none" stroke="#8fa4c0" stroke-width="1.2" stroke-linecap="round" opacity=".4"/>
+  <path d="M154 109 C152.5 106.5 156 105 154.5 102.5" fill="none" stroke="#8fa4c0" stroke-width="1" stroke-linecap="round" opacity=".28"/>
+
+  <!-- 猫 -->
+  <ellipse cx="219" cy="128" rx="38" ry="3" fill="#000" opacity=".2"/>
+  <ellipse cx="219" cy="116" rx="26" ry="13" fill="#8fa0b5"/>
+  <path d="M243 117 C253 119 256 126 245 127.5 C233 129.5 216 129.5 207 127" fill="none" stroke="#8fa0b5" stroke-width="5.5" stroke-linecap="round"/>
+  <ellipse cx="201" cy="126.5" rx="5.5" ry="2.2" fill="#9db0c6"/>
+  <g stroke="#9db0c6" stroke-width="1" stroke-linejoin="round">
+    <polygon points="187,105 189,97 196,102" fill="#9db0c6"/>
+    <polygon points="193,101 201,96 204,107" fill="#9db0c6"/>
+  </g>
+  <polygon points="189,102 190,98 193,101" fill="#6f8196" opacity=".55"/>
+  <polygon points="197,101 200,98 202,104" fill="#6f8196" opacity=".55"/>
+  <circle cx="194" cy="113" r="12" fill="#9db0c6"/>
+  <path d="M186 114 Q189 117 192 114" fill="none" stroke="#3f4c5e" stroke-width="1.2" stroke-linecap="round"/>
+  <circle cx="183" cy="118" r="1" fill="#3f4c5e"/>
+  <g stroke="#74839a" stroke-width=".8" stroke-linecap="round" opacity=".7">
+    <line x1="183" y1="119" x2="176" y2="117"/>
+    <line x1="183" y1="120" x2="176" y2="122"/>
+  </g>
+  <text x="171" y="102" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="6" fill="#8fa4c0" opacity="0">z<animateTransform attributeName="transform" type="translate" values="0 0;6 -10;12 -20" keyTimes="0;.45;1" dur="4.8s" begin="0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.7;.7;0" keyTimes="0;.12;.62;1" dur="4.8s" begin="0s" repeatCount="indefinite"/></text>
+  <text x="171" y="102" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="8" fill="#8fa4c0" opacity="0">z<animateTransform attributeName="transform" type="translate" values="0 0;6 -10;12 -20" keyTimes="0;.45;1" dur="4.8s" begin="1.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.7;.7;0" keyTimes="0;.12;.62;1" dur="4.8s" begin="1.6s" repeatCount="indefinite"/></text>
+  <text x="171" y="102" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#8fa4c0" opacity="0">z<animateTransform attributeName="transform" type="translate" values="0 0;6 -10;12 -20" keyTimes="0;.45;1" dur="4.8s" begin="3.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.7;.7;0" keyTimes="0;.12;.62;1" dur="4.8s" begin="3.2s" repeatCount="indefinite"/></text>
+  </g>
+</svg>
